@@ -1,2 +1,3 @@
 # Anomaly-detection-in-time-series-Benchmarking-2024-WDC-title-contenders.
 This F1 analysis uses Isolation Forest (Lap Times), LOF (Gap to Leader), and MAD (Red Bull vs. McLaren Telemetry) to detect performance anomalies in the Austria and Interlagos GPs. By comparing Verstappen and Norris through these three stages, the project correlates race pace with technical telemetry to identify key outlier moments.
+© 2026 Tudoroiu Carmen-Mihaela. All rights reserved. This project is for portfolio demonstration only. No part of this repository may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author.
